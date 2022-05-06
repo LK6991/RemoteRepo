@@ -1,3 +1,5 @@
 
  This is the first line of my file. [06/-5, 22:19]
  This is the second line [06/05, 22:23].
+ 
+ I wrote the third line on GitHub, and then brought it locally. [06/05/22, 22:35].
