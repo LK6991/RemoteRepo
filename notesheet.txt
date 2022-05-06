@@ -5,3 +5,4 @@ With this command, we can turn one folder of files into a Git repository.
 
  I added this line now! [06/05, 22:18]
  I added this line a few minute after the previous. [06/05, 22:21]
+ This line was added from GitHub interface. [06/05/22, 22:36].
