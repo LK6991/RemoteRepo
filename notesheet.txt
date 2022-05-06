@@ -4,3 +4,4 @@ With this command, we can turn one folder of files into a Git repository.
 (at this time, our folder has only one file - notesheet.txt) - [06/05,2022 / 21:15]
 
  I added this line now! [06/05, 22:18]
+ I added this line a few minute after the previous. [06/05, 22:21]
