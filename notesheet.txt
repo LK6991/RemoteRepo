@@ -1,0 +1,4 @@
+
+This folder is being used for learning the git init command of Git Bash.
+With this command, we can turn one folder of files into a Git repository.
+(at this time, our folder has only one file - notesheet.txt) - [06/05,2022 / 21:15]
